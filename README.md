@@ -1,0 +1,1 @@
+Base on cm12.1 For Xiaomi HM note 1s (gucci).
