@@ -56,7 +56,8 @@ vendor_modify_images := boot
 #-----------------------------------------------------------------------------
 vendor_saved_apps := Bluetooth KeyChain HTMLViewer UserDictionaryProvider BackupRestoreConfirmation \
                      FusedLocation PrintSpooler SharedStorageBackup  ExternalStorageProvider InputDevices \
-                     ProxyHandler Shell DefaultContainerService
+                     ProxyHandler Shell DefaultContainerService WAPPushManager Stk TimeService qcrilmsgtunnel \
+		     BluetoothExt CMSettingsProvider com.qualcomm.location shutdownlistener
 
 ##############################################################################
 # The value decides which vendor apk you want to modify.
